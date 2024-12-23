@@ -1,4 +1,4 @@
-# LearnAid
+![Lernaid LOGO](https://github.com/user-attachments/assets/e5ea8c07-a703-4e2e-a7be-fe7313410259)# LearnAid
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -67,12 +67,17 @@ LearnAid berkomitmen untuk mendukung pelajar dalam mencapai pendidikan berkualit
 ---
 
 ## Link Website
-[Demo LearnAid](https://domain-anda.com)
+[Demo LearnAid](https://learnaid.xyz/login)
 
 ---
 
 ## Struktur ERD Database
 ![Struktur ERD](images/erd_diagram.png)
+
+---
+
+##LOGO
+![Lernaid LOGO](https://github.com/user-attachments/assets/ceed91c1-b4ad-4407-8e5c-892c789288f8)
 
 ---
 
